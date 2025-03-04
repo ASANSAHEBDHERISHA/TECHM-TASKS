@@ -19,7 +19,8 @@
 }
 
 .container {
-    background-image: linear-gradient(brown, yellow);
+    background-image: linear-gradient(pink, violet);
     text-align: center;
     margin: 10px;
+    border-radius:16px;
 }
